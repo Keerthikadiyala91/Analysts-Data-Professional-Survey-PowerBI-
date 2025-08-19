@@ -1,6 +1,6 @@
 # Data Professional Survey Power BI Dashboard
 
-![Dashboard](./dashboard.png)
+![Dashboard](./dashboard.png.png)
 
 ## Project Overview
 This Power BI dashboard presents a detailed analysis of a survey conducted among **data professionals** across various job titles and countries. It highlights insights about their salaries, programming preferences, work-life balance, and challenges breaking into the field.
@@ -53,4 +53,5 @@ Synthetic or anonymized survey data collected from data professionals across rol
 For more projects and updates, feel free to visit my profiles:
 
 - GitHub: [Keerthi's GitHub Profile](https://github.com/Keerthikadiyala91)  
+
 - LinkedIn: [Keerthi's LinkedIn Profile](https://www.linkedin.com/in/keerthi-k-47868154/)
